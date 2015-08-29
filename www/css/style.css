@@ -1,0 +1,14 @@
+body {
+  
+}
+
+.list .my-item.item {
+  left: 0;
+  right: 0;
+}
+.platform-android .bar-subheader.has-tabs-top{
+  top:93px !important;
+}
+.platform-android .has-subheader.has-tabs-top{
+  top:137px;
+}
